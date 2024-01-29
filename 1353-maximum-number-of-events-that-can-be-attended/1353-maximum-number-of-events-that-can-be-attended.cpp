@@ -10,7 +10,7 @@ public:
         }
         int ans = 0,i = 0;
         priority_queue<int,vector<int>,greater<int>> pq;
-        for (int d = 1; d <= 100000; ++d) {
+        for (int d = start; d <= 100000; ++d) {
             while (pq.size() && pq.top() < d)
                 pq.pop();
             while (i < n && events[i][0] == d)
