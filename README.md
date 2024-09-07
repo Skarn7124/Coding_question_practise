@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Skarn7124/Coding_question_practise/tree/master/1484-linked-list-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
