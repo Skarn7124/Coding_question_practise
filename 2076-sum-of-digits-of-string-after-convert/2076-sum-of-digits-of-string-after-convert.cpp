@@ -11,6 +11,7 @@ public:
         }
         if(k == 1)
             return ans;
+        k-=1;
         while(k--){
             int t = 0;
             while(ans){
