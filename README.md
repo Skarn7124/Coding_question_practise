@@ -38,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
