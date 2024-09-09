@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Skarn7124/Coding_question_practise/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0043-multiply-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
