@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Skarn7124/Coding_question_practise/tree/master/0016-3sum-closest) |
+| [0040-combination-sum-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
