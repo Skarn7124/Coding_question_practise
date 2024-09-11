@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
