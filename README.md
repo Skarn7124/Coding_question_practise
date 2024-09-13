@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0043-multiply-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
