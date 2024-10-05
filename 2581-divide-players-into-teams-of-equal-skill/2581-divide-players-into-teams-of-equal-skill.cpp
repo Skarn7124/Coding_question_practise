@@ -2,7 +2,7 @@ class Solution {
 public:
     long long dividePlayers(vector<int>& nums) {
         int n = nums.size();
-        map<int,int> m;
+        unordered_map<int,int> m;
         long long int sum = 0,ans = 0;
         for(int i = 0;i<n;i++){
             m[nums[i]]++;
