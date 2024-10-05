@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Skarn7124/Coding_question_practise/tree/master/0060-permutation-sequence) |
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skarn7124/Coding_question_practise/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Skarn7124/Coding_question_practise/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
