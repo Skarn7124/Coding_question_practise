@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Skarn7124/Coding_question_practise/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0043-multiply-strings) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Divide and Conquer
 |  |
