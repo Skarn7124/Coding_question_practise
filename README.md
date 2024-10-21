@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Skarn7124/Coding_question_practise/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
