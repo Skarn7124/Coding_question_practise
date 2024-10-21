@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0890-lemonade-change](https://github.com/Skarn7124/Coding_question_practise/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Skarn7124/Coding_question_practise/tree/master/0072-edit-distance) |
+| [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
