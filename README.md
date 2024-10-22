@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Skarn7124/Coding_question_practise/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
@@ -182,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Skarn7124/Coding_question_practise/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 ## Stack
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skarn7124/Coding_question_practise/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
