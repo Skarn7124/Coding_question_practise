@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Skarn7124/Coding_question_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 ## Math
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skarn7124/Coding_question_practise/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
