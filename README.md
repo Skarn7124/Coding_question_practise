@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Skarn7124/Coding_question_practise/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 ## Number Theory
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
