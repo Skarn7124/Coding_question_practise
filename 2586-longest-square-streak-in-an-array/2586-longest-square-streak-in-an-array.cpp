@@ -1,25 +1,28 @@
 class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
-        map<long long int,int> m;
+        unordered_map<long long int,int> m,t;
         for(auto it : nums){
             m[it]++;
         }
-        sort(nums.begin(),nums.end());
         int ans = 0;
         int cur = 0;
         int n = nums.size();
         long long int x = 1;
         for(int i = 0;i<n;i++){
             if(m[nums[i] == 0]) continue;
-            cout<<nums[i]<<" ";
             x = nums[i];
             cur = 1;
             while(m[(x*x)] >= 1){
+                x = x*x;
+                if(t[x] != 0){
+                    cur += t[x];
+                    break;
+                }
                 cur++;
                 m[x] = 0;
-                x = x*x;
             }
+            t[nums[i]] = cur;
             ans = max(cur,ans);
             cur = 1;
         }
