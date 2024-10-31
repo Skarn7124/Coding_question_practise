@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
+| [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Skarn7124/Coding_question_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
+| [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Skarn7124/Coding_question_practise/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Skarn7124/Coding_question_practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Skarn7124/Coding_question_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
