@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Skarn7124/Coding_question_practise/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
