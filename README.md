@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Skarn7124/Coding_question_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Skarn7124/Coding_question_practise/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 ## Number Theory
 |  |
