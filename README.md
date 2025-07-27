@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
 | [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
