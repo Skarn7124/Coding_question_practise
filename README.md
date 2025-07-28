@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Skarn7124/Coding_question_practise/tree/master/2411-spiral-matrix-iv) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Skarn7124/Coding_question_practise/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Skarn7124/Coding_question_practise/tree/master/0060-permutation-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
