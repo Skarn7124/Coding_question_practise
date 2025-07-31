@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0890-lemonade-change](https://github.com/Skarn7124/Coding_question_practise/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Skarn7124/Coding_question_practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Skarn7124/Coding_question_practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Skarn7124/Coding_question_practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Skarn7124/Coding_question_practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Skarn7124/Coding_question_practise/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Skarn7124/Coding_question_practise/tree/master/2323-minimum-bit-flips-to-convert-number) |
