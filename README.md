@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3678-design-task-manager](https://github.com/Skarn7124/Coding_question_practise/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Skarn7124/Coding_question_practise/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -232,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Skarn7124/Coding_question_practise/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Skarn7124/Coding_question_practise/tree/master/3678-design-task-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Skarn7124/Coding_question_practise/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Skarn7124/Coding_question_practise/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
