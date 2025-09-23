@@ -2,25 +2,43 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         sort(nums.begin(),nums.end());
-        int n = nums.size();
-        long int temp;
-        set<vector<int>> ans;
-        for(int i = 0;i<n;i++){
-            for(int j = i+1;j<n;j++){
-                for(int k = j+1;k<n;k++){
-                    temp = (long int)nums[i]+(long int)nums[j]+(long int)nums[k];
-                    auto it1 = lower_bound(nums.begin()+k+1,nums.end(),target-temp);
-                    auto it2 = upper_bound(nums.begin()+k+1,nums.end(),target-temp);
-                    if ((it2-it1) != 0){
-                        ans.insert({nums[i],nums[j],nums[k],*it1});
-                    }
+        int n=nums.size();
+        vector<vector<int>> res;
+        for(int i=0;i<n;i++)
+        {
+            if(i!=0 && nums[i]==nums[i-1])
+                continue;
+            for(int l=i+1;l<n;l++)
+            {
+                if(l!=(i+1) && nums[l]==nums[l-1])
+                continue;
+            int j=l+1;
+            int k=n-1;
+            while(j<k)
+            {
+                long long tmp=nums[i]+nums[l];
+                tmp+=nums[j];
+                tmp+=+nums[k];
+                if(tmp>target)
+                {
+                    k--;
                 }
-            }
-        }   
-        vector<vector<int>> a1;
-        for(auto it : ans){
-            a1.push_back(it);
+                else if(tmp<target)
+                {
+                    j++;
+                }
+                else
+                {
+                    res.push_back({nums[i],nums[l],nums[j],nums[k]});
+                    j++;
+                    k--;
+                    while(j<k && nums[j]==nums[j-1])
+                        j++;
+                    while(j<k && nums[k]==nums[k+1])
+                        k--;
+                }
+            }}
         }
-        return a1;
+        return res;
     }
 };
