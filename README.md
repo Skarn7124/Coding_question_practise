@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Skarn7124/Coding_question_practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Skarn7124/Coding_question_practise/tree/master/0047-permutations-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Skarn7124/Coding_question_practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Skarn7124/Coding_question_practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
