@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Skarn7124/Coding_question_practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1105-uncrossed-lines](https://github.com/Skarn7124/Coding_question_practise/tree/master/1105-uncrossed-lines) |
+| [1390-four-divisors](https://github.com/Skarn7124/Coding_question_practise/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Skarn7124/Coding_question_practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Skarn7124/Coding_question_practise/tree/master/0060-permutation-sequence) |
+| [1390-four-divisors](https://github.com/Skarn7124/Coding_question_practise/tree/master/1390-four-divisors) |
 | [2155-find-missing-observations](https://github.com/Skarn7124/Coding_question_practise/tree/master/2155-find-missing-observations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Skarn7124/Coding_question_practise/tree/master/2288-count-operations-to-obtain-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
