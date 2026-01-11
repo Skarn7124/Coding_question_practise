@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Skarn7124/Coding_question_practise/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0890-lemonade-change](https://github.com/Skarn7124/Coding_question_practise/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Skarn7124/Coding_question_practise/tree/master/0906-walking-robot-simulation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Skarn7124/Coding_question_practise/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Skarn7124/Coding_question_practise/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Skarn7124/Coding_question_practise/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/1975-maximum-matrix-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Skarn7124/Coding_question_practise/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Skarn7124/Coding_question_practise/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Skarn7124/Coding_question_practise/tree/master/0221-maximal-square) |
 | [0583-delete-operation-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Skarn7124/Coding_question_practise/tree/master/0085-maximal-rectangle) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Skarn7124/Coding_question_practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Skarn7124/Coding_question_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Skarn7124/Coding_question_practise/tree/master/3678-design-task-manager) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Skarn7124/Coding_question_practise/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
