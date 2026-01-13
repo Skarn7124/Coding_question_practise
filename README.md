@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Skarn7124/Coding_question_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
+| [3453-separate-squares-i](https://github.com/Skarn7124/Coding_question_practise/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3453-separate-squares-i](https://github.com/Skarn7124/Coding_question_practise/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
