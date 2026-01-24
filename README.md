@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Skarn7124/Coding_question_practise/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Skarn7124/Coding_question_practise/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
 | [1975-maximum-matrix-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/1975-maximum-matrix-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Skarn7124/Coding_question_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Skarn7124/Coding_question_practise/tree/master/0165-compare-version-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/Skarn7124/Coding_question_practise/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Skarn7124/Coding_question_practise/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Skarn7124/Coding_question_practise/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Skarn7124/Coding_question_practise/tree/master/0148-sort-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Skarn7124/Coding_question_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Skarn7124/Coding_question_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/2586-longest-square-streak-in-an-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Skarn7124/Coding_question_practise/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Skarn7124/Coding_question_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Skarn7124/Coding_question_practise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Skarn7124/Coding_question_practise/tree/master/1975-maximum-matrix-sum) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Skarn7124/Coding_question_practise/tree/master/3317-maximum-palindromes-after-operations) |
 ## Stack
